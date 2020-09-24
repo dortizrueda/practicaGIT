@@ -1,1 +1,2 @@
-# practicaGIT
+# Mi primer GITHUB
+## Introduccion
